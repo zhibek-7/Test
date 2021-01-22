@@ -1,0 +1,1 @@
+IEnumerable<string> query = fruits.Where(fruit => fruit.Length < 6)
